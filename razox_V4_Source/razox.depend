@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1415646834 source:c:\users\moussa\desktop\razox c\razox\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1414881864 .h>
+
+1414881864 source:/media/sda2/Users/MOUSSA/Desktop/RAZOX C/razox/main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+
+1416611974 source:c:\users\moussa\desktop\razox c\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1418588937 source:c:\users\moussa\desktop\razox\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1419710545 source:c:\users\moussa\desktop\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1419710545 source:g:\users\moussa\desktop\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1429926964 source:c:\users\razox\desktop\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1412638444 c:\wx\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1412638444 c:\wx\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1430068126 source:d:\backup\razox_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1387231356 c:\curl-7.34.0\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1387266692 c:\curl-7.34.0\include\curl\curlver.h
+
+1387266692 c:\curl-7.34.0\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1378681876 c:\curl-7.34.0\include\curl\curlrules.h
+
+1378681876 c:\curl-7.34.0\include\curl\easy.h
+
+1382565334 c:\curl-7.34.0\include\curl\multi.h
+	"curl.h"
+
+1387231356 c:\curl-7.34.0\include\curl\typecheck-gcc.h
+
+1450009727 source:d:\backup\razox_v3_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
+1459372425 source:d:\backup\razox_v4_source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<curl/curl.h>
+	<winsock2.h>
+	<string.h>
+	<windows.h>
+	<dirent.h>
+
